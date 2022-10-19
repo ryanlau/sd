@@ -1,0 +1,60 @@
+/*
+notes-and-code: Hui Wang, Ryan Lau, Jonathan Song  
+SoftDev  
+K13 -- Stuylin' & Wylin' & Profilin'
+2022-10-17  
+time spent: 1 hrs  
+*/
+
+html {
+    background-color: #666666;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: #bebebe;
+    color: white;
+    margin: 0;
+}
+
+h2 {
+    margin: 0px;
+}
+
+h3 {
+    margin-top: 0px;
+}
+
+#navbar {
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+}
+
+#main-text {
+    display: flex;
+    flex-direction: column;
+}
+
+#main-content {
+    padding: 20px 10px 0px 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 80px;
+    background-color: #767676;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #dcdcdc;
+}
+
+footer {
+    background-color: #565656;
+    color: #6e6e6e;
+    text-align: right;
+    padding: 10px;
+}
+
