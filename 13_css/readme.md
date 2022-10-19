@@ -1,6 +1,6 @@
 notes-and-code: Hui Wang, Ryan Lau, Jonathan Song  
 SoftDev  
-K13 -- Stuylin' & Wylin' & Profilin'
+K13 -- Stuylin' & Wylin' & Profilin'  
 2022-10-17  
 time spent: 1 hrs  
 
