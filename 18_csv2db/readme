@@ -1,0 +1,12 @@
+notes-and-code: Hui Wang, Ryan Lau, Jonathan Song
+SoftDev  
+K18 -- SQLITE3 BASICS
+2022-10-25
+time spent: 0.6 hrs
+
+When you convert a csv.DictReader object into a list,
+you get [{'code': 'systems', 'mark': '75', 'id': '1'}, ...]
+
+csv.DictReader object is not subscriptable
+
+when we convert the DictReader object into a list, it empties the data in the DictReader object
