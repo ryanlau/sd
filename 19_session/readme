@@ -1,0 +1,9 @@
+notes-and-code: Hui Wang, Ryan Lau, Jonathan Song
+SoftDev  
+K19
+2022-11-04
+time spent: 1.5 hrs
+
+when a session is open on one tab, it should still be open if you open a new tab or reload the page
+
+we can find the cookies in the developer console in the storage section
