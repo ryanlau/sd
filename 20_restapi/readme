@@ -1,0 +1,13 @@
+npcs -- Craig Chen, Ryan Lau
+SoftDev
+K20: A RESTful Journey Skyward
+2022-11-21
+time spent: 0.5 hrs
+
+disco
+* requests.get(<URL>) sends a get request to the url
+* response.json() return dictionary if response content is valid json
+* access values of dictionary with dictionary.get(<KEY>)
+
+qcc
+* how do you make the image and explanation overlap if we wanted to?
