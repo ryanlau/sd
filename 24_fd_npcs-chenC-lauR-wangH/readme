@@ -1,0 +1,17 @@
+npcs + Hui -- Craig Chen, Ryan Lau, Hui Wang
+SoftDev
+K24: Foundation 101
+2022-11-30
+time spent: 0.5 hrs
+
+disco
+ - card class allows us to organize and display content nicely without making styling choices
+ - foundation's grid offers less control than bootstrap's, at least in our short experience
+
+qcc
+ - what does medium of medium-auto mean?
+
+q0: 1
+q0b: https://get.foundation/sites/docs/xy-grid.html
+
+q1: Bootstrap is preferred. Nicer docs, more utility classes, is more actively worked on compared to Foundation based on update history.
