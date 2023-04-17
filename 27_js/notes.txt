@@ -1,0 +1,21 @@
+Team Imperium Ascension :: FMC, RL
+SoftDev pd02
+K27 -- Basic functions in JavaScript
+2023-04-04t
+
+DISCO
+-----------------------------------------------------------------
+* Ooooh, scheme needs an interpreter.
+* JavaScript don't need no semicolons? But otherwise, similar
+  to Java.
+* Define functions with 'function'
+=================================================================
+
+QCC
+-----------------------------------------------------------------
+* How to run Scheme without DrRacket?
+* How to run JavaScript without browser/html?
+=================================================================
+
+
+
