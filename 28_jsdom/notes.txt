@@ -1,0 +1,37 @@
+Team Imperium Ascension :: FMC, RL
+SoftDev pd02
+K28 -- Building Castles in the Sand
+2023-04-17m
+
+DISCO
+-----------------------------------------------------------------
+* ooooh, you can instantiate variables as functions.
+* there's a dominant color order (blue > green > red)... if a 
+      class list has red and blue, it'll be blue.
+      * but how
+* html script doesn't have access to js file if written above the source
+* if you type the name of the fxn without parens in dev console, 
+  the entire function is printed
+* obj variables can be accessed with o.VAR_NAME
+* obj variables can be modified with o.VAR_NAME = NEW_VALUE
+     can even change variable type
+* obj func can be called with o.func
+
+=================================================================
+
+QCC
+-----------------------------------------------------------------
+* what is "[[Prototype]]: Object," found in var o?
+* what's the difference between declaring a function with:
+    * "function f(n) {};"
+    * "var f = function(n) {};" 
+    * "const f = (n) => {};" 
+* is it possible to get the initialized functions/variables 
+  just from dev console?
+* when do we need to use 'var'?
+* is there js but with types?
+
+=================================================================
+
+
+
