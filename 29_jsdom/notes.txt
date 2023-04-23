@@ -1,0 +1,23 @@
+Team Seventeen :: Jing, Ryan
+SoftDev pd02
+K29 -- DOMfoolery++
+2023-04-23m
+time spent: 1.0 hrs
+
+DISCO
+-----------------------------------------------------------------
+* we can call a function that requires arguments like fib with
+  addEventListener by wrapping it with a function that doesn't
+* mdn is so useful!
+
+=================================================================
+
+QCC
+-----------------------------------------------------------------
+* why does the function passed into element.addEventListener not
+  take any arguments?
+
+=================================================================
+
+
+
