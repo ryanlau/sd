@@ -1,3 +1,8 @@
+// Team Imperium Ascension :: FMC, RL
+// SoftDev pd2
+// K30 -- canvas based JS drawing
+// 2023-04-25t
+
 var c = document.getElementById("slate");
 
 var ctx = c.getContext("2d");
