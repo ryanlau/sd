@@ -2,6 +2,8 @@ var c = document.getElementById("slate");
 
 var ctx = c.getContext("2d");
 
+ctx.fillStyle = "red"
+
 var mode = "rect";
 
 var toggleMode = (e) => {
@@ -22,36 +24,35 @@ var drawCircle = function(e) {
     var mouseX = e.offsetX;
     var mouseY = e.offsetY;
 
-
-    console.log(mouseX);
-    console.log(mouseY);
+    ctx.beginPath();
+    ctx.arc(mouseX, mouseY, 50, 0, 2 * Math.PI);
+    ctx.fill();
+    ctx.stroke();
 }
 
 var drawRect = function(e) {
     var mouseX = e.offsetX;
     var mouseY = e.offsetY;
 
-    console.log(e);
-    console.log(e.offsetX);
-    console.log(e.offsetY);
-    console.log(e);
-
+    ctx.fillRect(mouseX, mouseY, 100, 200);
 }
 
 var draw = (e) => {
     if (mode == "rect") {
-        drawRect(e)
+        drawRect(e);
     } else {
-        drawCircle(e)
+        drawCircle(e);
     }
 }
 
+var wipeCanvas = () => {
+    ctx.clearRect(0, 0, 600, 600)
+}
 
-c.addEventListener("click", draw)
+c.addEventListener("click", draw);
 
 var bToggler = document.getElementById("buttonToggle");
 bToggler.addEventListener('click', toggleMode);
 
-
 var clearB = document.getElementById("buttonClear");
-// clearB.addEventListener('click', wipeCanvas)
+clearB.addEventListener('click', wipeCanvas);

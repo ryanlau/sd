@@ -1,0 +1,22 @@
+Team Imperium Ascension :: FMC, RL
+SoftDev pd02
+K30 -- JS Paint
+2023-04-25t
+
+DISCO
+-----------------------------------------------------------------
+* firefox is a lie!
+* this feels very similar to processing!
+* top left of canvas is (0, 0) and bottom right is (600, 600)
+
+=================================================================
+
+QCC
+-----------------------------------------------------------------
+* why is firefox a lie?
+* why do we begin a path but why do we not need to close it?!
+
+=================================================================
+
+
+
