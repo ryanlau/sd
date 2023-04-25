@@ -1,0 +1,22 @@
+Team Seventeen :: Jing, Ryan
+SoftDev pd02
+K31 -- JS Paint, Paint, Paint...
+2023-04-26w
+
+DISCO
+-----------------------------------------------------------------
+* requeatAnimationFrame is similar to recursion??
+* clearing the screen is important b/c when the circle is shrinking,
+  we will still see the bigger circle if we do not clear it
+
+=================================================================
+
+QCC
+-----------------------------------------------------------------
+* when does the fxn in requestAnimationFrame() run?
+    * before or after the rest of the block requestAnimationFrame() is run?
+
+=================================================================
+
+
+
