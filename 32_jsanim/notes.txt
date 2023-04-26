@@ -1,0 +1,17 @@
+Team Imperial Ascension :: FMC, RM
+SoftDev pd2
+K32 -- Screensaver
+2023-04-27r
+
+DISCO
+-----------------------------------------------------------------
+* You can check the properties of an image file in your file
+explorer to view the dimensions of the image.
+=================================================================
+
+QCC
+-----------------------------------------------------------------
+* What's the significance of using e.preventDefault() in the
+clear function?
+=================================================================
+
